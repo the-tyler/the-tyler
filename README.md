@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-tyler
-- 👀 I’m interested in Data Science and Quantitative Finance
+- 👀 I’m interested in Data Science and Quantitative Finance. Check out my Medium.com page: medium.com/@onersarpnalcin
 - 📫 Reach me on onersarpnalcin@gmail.com or find me on LinkedIn as Sarp Nalcin 
 
 <!---
