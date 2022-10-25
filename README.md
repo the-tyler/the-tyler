@@ -36,8 +36,3 @@ These are some of the major technologies that I use or used in the past:
 
 <a href="https://www.linkedin.com/in/oner-sarp-nalcin/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://medium.com/@onersarpnalcin"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40"></a>
 |--|--|
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
