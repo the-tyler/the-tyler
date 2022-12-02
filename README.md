@@ -5,7 +5,7 @@ I'm a **Data Scientist** in Finance. I’m passionate about **Data Science & Qua
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or used in the past:
+These are some of the major technologies that I use or used in the past
 
 **Programming Languages**
 
