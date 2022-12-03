@@ -5,7 +5,7 @@ I'm a **Data Scientist** in Finance. I’m passionate about **Data Science & Qua
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or used in the past
+These are some of the major technologies that I use or used in the past:
 
 **Programming Languages**
 
@@ -32,7 +32,7 @@ These are some of the major technologies that I use or used in the past
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|
 
-## Let's Connect :handshake:
+## Let's Connect!
 
 <a href="https://www.linkedin.com/in/oner-sarp-nalcin/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://medium.com/@onersarpnalcin"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40"></a>
 |--|--|
