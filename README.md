@@ -5,7 +5,7 @@ I'm a **Data Scientist**. I’m passionate about **Data Science & Quantitative F
 
 ## Skill Set :muscle:
 
-These are some of the major technologies that I use or used in the past:
+These are some of the major technologies that I use or used in the past
 
 **Programming Languages**
 
