@@ -3,7 +3,7 @@
 
 I'm a **Data Scientist**. I’m passionate about **Data Science & Quantitative Finance**. My day to day work revolves around building Machine Learning models for various interesting problems, deploying them to production and performing A/B test to bring actionable insights. I'm open to collaborate on interesting projects.
 
-## Skill Set :muscle:
+## Skill Set :muscle
 
 These are some of the major technologies that I use or used in the past:
 
