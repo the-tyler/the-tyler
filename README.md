@@ -1,7 +1,7 @@
 
 <h1>Hi there, I'm Sarp Nalcin <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Data Scientist**. I’m passionate about **Data Science & Quantitative Finance**. My day to day work revolves around building Machine Learning models for various interesting problems, deploying them to production and performing A/B test to bring actionable insights. I'm open to collaborate on interesting projects.
+I'm a current **MS in Financial Mathematics student** at the **University of Chicago**. I’m passionate about **Data Science & Quantitative Finance**. My day to day work revolves around building Machine Learning models for various interesting problems, deploying them to production and performing A/B test to bring actionable insights. I'm open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
